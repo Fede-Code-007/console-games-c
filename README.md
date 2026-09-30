@@ -2,7 +2,7 @@
 
 Hola👋, hoy les traigo una colección de juegos de consola que desarrolle en **C durante 2022**, como parte de mis primeros proyectos de programación 😁.
 
-> 📌 Estos proyectos corresponden a una etapa inicial de mi formación en programación y se conservan meramente como registro de aprendizaje y evolución técnica.
+> 📌 NOTA: Estos proyectos corresponden a una etapa inicial de mi formación en programación y se conservan meramente como registro de aprendizaje y evolución técnica.
 
 ---
 
